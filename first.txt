@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 This is the first line that we are writing
 
 
 New line added by Deepa
+=======
+This is the first line we are writing
+THis is the second line we are writing from master
+We are adding this from branch feat1
+we are adding this from our AWS VM
+
+we are editing this from github
+>>>>>>> ffba43da4169c0ba700d07df7b287e8b6aa0a69d
